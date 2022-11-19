@@ -1,6 +1,7 @@
 import Banner from "../components/banner/Banner"
 import Sidenav from "../components/sidenav/Sidenav"
 import "./main.css"
+// import Disc from "../components/disc/Disc"
 export default function Main() {
     
   return (
@@ -11,6 +12,7 @@ export default function Main() {
         </div>
         <div className="flex-grow-1 main-container p-3" >
             <Banner />
+           
         </div>
     </div>
   )
