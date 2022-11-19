@@ -1,0 +1,11 @@
+.glass{
+    background: url("https://c4.wallpaperflare.com/wallpaper/1004/4/846/synthwave-background-wallpaper-preview.jpg");
+/* box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37); */
+backdrop-filter: blur( 14px );
+height: 150px;
+background-size: cover;
+-webkit-backdrop-filter: blur( 14px );
+border-radius: 10px;
+color:ghostwhite;
+/* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+}
