@@ -2,7 +2,7 @@ import { BsMusicNoteBeamed, BsMusicNoteList, BsSearch } from "react-icons/bs";
 import { AiOutlineHeart } from "react-icons/ai";
 export default function Sidenav() {
   return (
-    <div>
+    <div className="">
       <div className="d-flex flex-column text-white">
         <div className="flex p-3 font-bold rounded m-2">
           <BsMusicNoteBeamed fontSize={24} />

@@ -13,13 +13,13 @@ export default function Music({
   return (
     <div
       className="music-album"
-      style={{ width: "200px", height: 200, overflow: "hidden" }}
+      style={{ width: "300px", height: 300, overflow: "hidden" }}
     >
       <div
         className="music-image"
         style={{
-          height: 200,
-          width: 200,
+          height: 300,
+          width: 300,
           background: `url(${img})`,
           backgroundSize: "cover",
         }}
