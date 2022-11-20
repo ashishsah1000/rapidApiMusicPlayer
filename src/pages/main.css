@@ -1,6 +1,12 @@
 .main-container{
-    background: #232526;  /* fallback for old browsers */
+    background: url("https://www.bollywoodhungama.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-12-at-1.06.08-PM.jpeg");
+    background-size: cover;
+}
+.inner-container{
+    width: 100%;
+    height: 100vh;
+        background: #232526;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #000000, #232526);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #000000, #181919); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, #000000, #111111de); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
