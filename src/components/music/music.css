@@ -1,0 +1,22 @@
+.hover-music {
+  height: 50px;
+  width: 100%;
+  background: rgb(37, 37, 38);
+  position: relative;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  transition: 0.5s ease-in-out;
+}
+.music-album {
+  margin: 20 20;
+  transition: 0.3s ease;
+}
+
+.music-album:hover {
+  scale: 1.01;
+  box-shadow: -1px 1px 7px 2px rgba(1, 9, 37, 0.75);
+}
+.music-album:hover .hover-music {
+  top: -50px;
+}
