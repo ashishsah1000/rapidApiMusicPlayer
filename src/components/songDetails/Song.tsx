@@ -10,14 +10,15 @@ import { useDispatch } from "react-redux";
 import { Link, useParams } from "react-router-dom";
 import Loading from "../loading/Loading";
 import axios from "axios";
+import { addToFav } from "../../storage/user";
+import musicData from "../../data/INMusic.json";
 
-// interface song {
-//   bgimg?: string;
-//   thumbimg?: string;
-//   details?: string;
-//   //   id?: number;
-//   artistId?: string;
-// }
+interface song {
+  coverart?: string;
+  title?: string;
+  subtitle?: string;
+  id?: string;
+}
 export default function Song() {
   const { id } = useParams();
   const [loading, setLoading] = useState<boolean>(true);
@@ -68,19 +69,25 @@ export default function Song() {
       .request(options)
       .then(function (response) {
         console.log(response.data);
-        setRecom(response.data.tracks);
+        if (Object.keys(response.data).length === 0) {
+          let tracks: any = musicData.tracks;
+          setRecom(tracks);
+        } else setRecom(response.data.tracks);
       })
       .catch(function (error) {
         console.error(error);
       });
   };
-  //   console.log(songInfo);
+  const handleAddToFav = () => {
+    const favSong: song = { id, coverart: thumbg, title, subtitle };
+    addToFav(favSong);
+  };
 
   const dispatch = useDispatch();
   let stop: number = 0;
   useEffect(() => {
     if (stop == 0) {
-      //   getSongInfo();
+      getSongInfo();
       stop++;
     }
   }, [id]);
@@ -108,6 +115,9 @@ export default function Song() {
               <span
                 role="button"
                 style={{ position: "relative", top: -10, left: 10 }}
+                onClick={() => {
+                  handleAddToFav();
+                }}
               >
                 <BsHeart size={24} />
               </span>
@@ -129,7 +139,7 @@ export default function Song() {
               className="rounded-circle"
               style={{ height: "100px", background: "", padding: "18px 18px" }}
             >
-              <BsMusicNoteList color="dodgerblue" size={32} />
+              <BsMusicNoteList color="tomato" size={32} />
             </span>
             <span role="button">
               <AiFillPlayCircle color="teal" size={64} />

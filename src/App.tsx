@@ -1,11 +1,11 @@
-import React from 'react';
+import "@stripe/stripe-js";
 // import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
-import Main from './pages/Main';
+import Main from "./pages/Main";
 
 function App() {
-  let item:string;
+  let item: string;
   return (
     <div className="App">
       <Main />

@@ -4,10 +4,10 @@ import { useState } from "react";
 export default function Search() {
   const handleSearchChange = async (e: any) => {
     const value: string = e.target.value;
-    if (value.length > 6) {
-      //   const res = await searchMusic(value);
-      //   console.log(res);
-      //   setsearchData(res);
+    if (value.length > 4) {
+      // const res = await searchMusic(value);
+      // console.log(res);
+      // setsearchData(res);
     }
   };
   const [searchData, setsearchData] = useState<[]>([]);

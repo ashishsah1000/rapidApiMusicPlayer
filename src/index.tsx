@@ -6,18 +6,28 @@ import App from "./App";
 import store from "./store/store";
 import { Provider } from "react-redux";
 import { BrowserRouter } from "react-router-dom";
+import { ReactKeycloakProvider } from "@react-keycloak/web";
+import keycloak from "./Keycloak";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
-  <React.StrictMode>
-    <BrowserRouter>
-      <Provider store={store}>
-        <App />
-      </Provider>
-    </BrowserRouter>
-  </React.StrictMode>
+  <ReactKeycloakProvider
+    authClient={keycloak}
+    initOptions={{
+      onLoad: "login-required",
+      checkLoginIframe: false,
+    }}
+  >
+    <React.StrictMode>
+      <BrowserRouter>
+        <Provider store={store}>
+          <App />
+        </Provider>
+      </BrowserRouter>
+    </React.StrictMode>
+  </ReactKeycloakProvider>
 );
 
 // If you want to start measuring performance in your app, pass a function
