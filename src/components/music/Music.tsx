@@ -22,12 +22,24 @@ export default function Music({
           width: 300,
           background: `url(${img})`,
           backgroundSize: "cover",
+          textDecoration: "none",
+        
         }}
       ></div>
       <div className="hover-music p-3">
-        <h6 className="text-white flex-grow-1 text-uppercase mt-1">{title}</h6>
+        <h6
+          className="text-white flex-grow-1 text-uppercase mt-1 "
+          style={{
+            textDecoration: "none",
+            width: "200px",
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+            whiteSpace: "nowrap",
+          }}
+        >
+          {title}
+        </h6>
         <span role="button">
-          hellw
           <AiFillPlayCircle color="white" size={36} />
         </span>
       </div>

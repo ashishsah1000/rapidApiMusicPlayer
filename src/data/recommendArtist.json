@@ -1,0 +1,2483 @@
+{
+  "tracks": [
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "509329782",
+      "title": "Marappadhilai Nenje (Additional Song)",
+      "subtitle": "Leon James & Sudharshan Ashok",
+      "share": {
+        "subject": "Marappadhilai Nenje (Additional Song) - Leon James & Sudharshan Ashok",
+        "text": "I used Shazam to discover Marappadhilai Nenje (Additional Song) by Leon James & Sudharshan Ashok.",
+        "href": "https://www.shazam.com/track/509329782/marappadhilai-nenje-additional-song",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/77/53/4d7753a2-35c2-6dc0-22aa-c6d091027a76/886448321323.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Marappadhilai Nenje (Additional Song) by Leon James & Sudharshan Ashok.",
+        "html": "https://www.shazam.com/snippets/email-share/509329782?lang=en-US&country=US",
+        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/25/fb/19/25fb19a4-9902-7af5-aea2-63bb74e84cd8/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/509329782"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/25/fb/19/25fb19a4-9902-7af5-aea2-63bb74e84cd8/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/77/53/4d7753a2-35c2-6dc0-22aa-c6d091027a76/886448321323.jpg/400x400cc.jpg",
+        "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/77/53/4d7753a2-35c2-6dc0-22aa-c6d091027a76/886448321323.jpg/400x400cc.jpg",
+        "joecolor": "b:cc0053p:fffad6s:dde5dct:f4c7bbq:dab7c1"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1500567196"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/bc/a9/d3bca9af-37f1-b888-f7fe-e1fc027458b4/mzaf_7431360031966912901.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/marappadhilai-nenje-additional-song/1500567194?i=1500567196&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/marappadhilai-nenje-additional-song/1500567194?i=1500567196&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/marappadhilai-nenje-additional-song/1500567194?i=1500567196&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Marappadhilai%20Nenje%20%28Additional%20Song%29%20Leon%20James"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Marappadhilai+Nenje+%28Additional+Song%29%27%20artist%3A%27Leon+James++Sudharshan+Ashok%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "330140160"
+        }
+      ],
+      "url": "https://www.shazam.com/track/509329782/marappadhilai-nenje-additional-song"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "90606371",
+      "title": "Karuppinazhaku",
+      "subtitle": "Mohan Sithara, Rajesh & Jyotsna",
+      "share": {
+        "subject": "Karuppinazhaku - Mohan Sithara, Rajesh & Jyotsna",
+        "text": "I used Shazam to discover Karuppinazhaku by Mohan Sithara, Rajesh & Jyotsna.",
+        "href": "https://www.shazam.com/track/90606371/karuppinazhaku",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/be/ab/18/beab18ea-78d6-ce7c-6561-f7dd3ea4efc9/8904337270889.png/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Karuppinazhaku by Mohan Sithara, Rajesh & Jyotsna.",
+        "html": "https://www.shazam.com/snippets/email-share/90606371?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/90606371"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/be/ab/18/beab18ea-78d6-ce7c-6561-f7dd3ea4efc9/8904337270889.png/400x400cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/be/ab/18/beab18ea-78d6-ce7c-6561-f7dd3ea4efc9/8904337270889.png/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/be/ab/18/beab18ea-78d6-ce7c-6561-f7dd3ea4efc9/8904337270889.png/400x400cc.jpg",
+        "joecolor": "b:68b9fap:130000s:392114t:242532q:423f42"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1640712323"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7c/f0/8f/7cf08f15-171c-fa7f-c71e-69e153a846a7/mzaf_15364372058208534094.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/karuppinazhaku/1640712319?i=1640712323&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/karuppinazhaku/1640712319?i=1640712323&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/karuppinazhaku/1640712319?i=1640712323&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Karuppinazhaku%20Mohan%20Sithara"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Karuppinazhaku%27%20artist%3A%27Mohan+Sithara%2C+Rajesh++Jyotsna%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "117749913"
+        }
+      ],
+      "url": "https://www.shazam.com/track/90606371/karuppinazhaku"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "365428601",
+      "title": "Oru Nokku",
+      "subtitle": "Karthik",
+      "share": {
+        "subject": "Oru Nokku - Karthik",
+        "text": "I used Shazam to discover Oru Nokku by Karthik.",
+        "href": "https://www.shazam.com/track/365428601/oru-nokku",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/7a/ea/ef/7aeaef92-8424-98cd-d32d-5a3320b0094c/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Oru Nokku by Karthik.",
+        "html": "https://www.shazam.com/snippets/email-share/365428601?lang=en-US&country=US",
+        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/99/fb/b2/99fbb284-2f22-1793-5167-d93355bcf975/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/365428601"
+      },
+      "images": {
+        "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/99/fb/b2/99fbb284-2f22-1793-5167-d93355bcf975/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/7a/ea/ef/7aeaef92-8424-98cd-d32d-5a3320b0094c/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/7a/ea/ef/7aeaef92-8424-98cd-d32d-5a3320b0094c/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:f4e099p:090901s:211d17t:38341fq:4b4431"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1471452199"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/e5/6e/a3e56e0e-d86e-812b-58ce-9bffd64f6c60/mzaf_10525321449210384032.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/oru-nokku/1471452046?i=1471452199&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/oru-nokku/1471452046?i=1471452199&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/oru-nokku/1471452046?i=1471452199&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Oru%20Nokku%20Karthik"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Oru+Nokku%27%20artist%3A%27Karthik%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "20090268"
+        }
+      ],
+      "url": "https://www.shazam.com/track/365428601/oru-nokku"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "442982396",
+      "title": "Dope Anthem (From \"Simba\")",
+      "subtitle": "Vishal Chandrashekar",
+      "share": {
+        "subject": "Dope Anthem (From \"Simba\") - Vishal Chandrashekar",
+        "text": "I used Shazam to discover Dope Anthem (From \"Simba\") by Vishal Chandrashekar.",
+        "href": "https://www.shazam.com/track/442982396/dope-anthem-from-simba",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/d4/c1/ab/d4c1ab50-6bae-a8d7-7ffa-14537d30ee1f/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Dope Anthem (From \"Simba\") by Vishal Chandrashekar.",
+        "html": "https://www.shazam.com/snippets/email-share/442982396?lang=en-US&country=US",
+        "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/0d/ef/9e/0def9e03-964c-56b2-4543-0163283f44e1/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/442982396"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/0d/ef/9e/0def9e03-964c-56b2-4543-0163283f44e1/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/d4/c1/ab/d4c1ab50-6bae-a8d7-7ffa-14537d30ee1f/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/d4/c1/ab/d4c1ab50-6bae-a8d7-7ffa-14537d30ee1f/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:1e4f39p:f9e91cs:fde403t:cdca22q:d0c60e"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1438414579"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/0e/6f/2a0e6f72-0ad0-50e7-03de-f7e106be304a/mzaf_15923178323017397191.plus.aac.p.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/dope-anthem-from-simba/1438414577?i=1438414579&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/dope-anthem-from-simba/1438414577?i=1438414579&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/dope-anthem-from-simba/1438414577?i=1438414579&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Dope%20Anthem%20%28From%20%22Simba%22%29%20Vishal%20Chandrashekar"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dope+Anthem+%28From+%22Simba%22%29%27%20artist%3A%27Vishal+Chandrashekar%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "593094166"
+        }
+      ],
+      "url": "https://www.shazam.com/track/442982396/dope-anthem-from-simba"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "373113673",
+      "title": "Sita Kalyanam",
+      "subtitle": "Renuka Arun & Sooraj S. Kurup",
+      "share": {
+        "subject": "Sita Kalyanam - Renuka Arun & Sooraj S. Kurup",
+        "text": "I used Shazam to discover Sita Kalyanam by Renuka Arun & Sooraj S. Kurup.",
+        "href": "https://www.shazam.com/track/373113673/sita-kalyanam",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ca/bc/f5cabc7f-bd1c-8ffd-92e5-81551512de00/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Sita Kalyanam by Renuka Arun & Sooraj S. Kurup.",
+        "html": "https://www.shazam.com/snippets/email-share/373113673?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/373113673"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ca/bc/f5cabc7f-bd1c-8ffd-92e5-81551512de00/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ca/bc/f5cabc7f-bd1c-8ffd-92e5-81551512de00/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ca/bc/f5cabc7f-bd1c-8ffd-92e5-81551512de00/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:ead8c4p:100910s:432d27t:3b3334q:644f46"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1278851583"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f8/ce/44/f8ce4436-5deb-e772-789f-a195e2040f4a/mzaf_14183304479929309032.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/sita-kalyanam/1278851563?i=1278851583&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/sita-kalyanam/1278851563?i=1278851583&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/sita-kalyanam/1278851563?i=1278851583&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Sita%20Kalyanam%20Renuka%20Arun"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sita+Kalyanam%27%20artist%3A%27Renuka+Arun++Sooraj+S.+Kurup%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1274908766"
+        }
+      ],
+      "url": "https://www.shazam.com/track/373113673/sita-kalyanam"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "508109547",
+      "title": "Adakachakko (From \"Ayyappanum Koshiyum\")",
+      "subtitle": "Pridhviraj, Biju Menon, Jakes Bejoy & Hari Narayanan B K",
+      "share": {
+        "subject": "Adakachakko (From \"Ayyappanum Koshiyum\") - Pridhviraj, Biju Menon, Jakes Bejoy & Hari Narayanan B K",
+        "text": "I used Shazam to discover Adakachakko (From \"Ayyappanum Koshiyum\") by Pridhviraj, Biju Menon, Jakes Bejoy & Hari Narayanan B K.",
+        "href": "https://www.shazam.com/track/508109547/adakachakko-from-ayyappanum-koshiyum",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/b1/0d/1c/b10d1cdd-ff36-b315-7b87-8e31d56d6d91/8905574876445.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Adakachakko (From \"Ayyappanum Koshiyum\") by Pridhviraj, Biju Menon, Jakes Bejoy & Hari Narayanan B K.",
+        "html": "https://www.shazam.com/snippets/email-share/508109547?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/508109547"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/b1/0d/1c/b10d1cdd-ff36-b315-7b87-8e31d56d6d91/8905574876445.jpg/400x400cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/b1/0d/1c/b10d1cdd-ff36-b315-7b87-8e31d56d6d91/8905574876445.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/b1/0d/1c/b10d1cdd-ff36-b315-7b87-8e31d56d6d91/8905574876445.jpg/400x400cc.jpg",
+        "joecolor": "b:050505p:fefefes:d5a58dt:ccccccq:ab8572"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1641634012"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/42/1c/cc/421cccb5-e5a4-41a2-f69e-6f16f5c48fec/mzaf_2634287937257675621.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/adakachakko-from-ayyappanum-koshiyum/1641634011?i=1641634012&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/adakachakko-from-ayyappanum-koshiyum/1641634011?i=1641634012&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/adakachakko-from-ayyappanum-koshiyum/1641634011?i=1641634012&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Adakachakko%20%28From%20%22Ayyappanum%20Koshiyum%22%29%20Pridhviraj"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Adakachakko+%28From+%22Ayyappanum+Koshiyum%22%29%27%20artist%3A%27Pridhviraj%2C+Biju+Menon%2C+Jakes+Bejoy++Hari+Narayanan+B+K%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1640894311"
+        }
+      ],
+      "url": "https://www.shazam.com/track/508109547/adakachakko-from-ayyappanum-koshiyum"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "508873690",
+      "title": "Sirikkalam Parakkalam",
+      "subtitle": "Benny Dayal & Madurai Soulijos",
+      "share": {
+        "subject": "Sirikkalam Parakkalam - Benny Dayal & Madurai Soulijos",
+        "text": "I used Shazam to discover Sirikkalam Parakkalam by Benny Dayal & Madurai Soulijos.",
+        "href": "https://www.shazam.com/track/508873690/sirikkalam-parakkalam",
+        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/c8/09/ec/c809ecbb-f413-b0a6-c5fe-06af8a1c97aa/840780166554.png/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Sirikkalam Parakkalam by Benny Dayal & Madurai Soulijos.",
+        "html": "https://www.shazam.com/snippets/email-share/508873690?lang=en-US&country=US",
+        "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/2f/35/3f/2f353f88-dbc7-8b85-55ef-e6efcf553991/mza_15636509104587981200.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/508873690"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/2f/35/3f/2f353f88-dbc7-8b85-55ef-e6efcf553991/mza_15636509104587981200.png/800x800cc.jpg",
+        "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/c8/09/ec/c809ecbb-f413-b0a6-c5fe-06af8a1c97aa/840780166554.png/400x400cc.jpg",
+        "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/c8/09/ec/c809ecbb-f413-b0a6-c5fe-06af8a1c97aa/840780166554.png/400x400cc.jpg",
+        "joecolor": "b:1c0e2dp:ffffffs:e99fa0t:d1ced4q:c08289"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1529545682"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/59/9c/75599c8e-94ff-5064-da27-2a0faed9dace/mzaf_3992463477790921134.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/sirikkalam-parakkalam/1529545680?i=1529545682&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/sirikkalam-parakkalam/1529545680?i=1529545682&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/sirikkalam-parakkalam/1529545680?i=1529545682&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Sirikkalam%20Parakkalam%20Benny%20Dayal"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sirikkalam+Parakkalam%27%20artist%3A%27Benny+Dayal++Madurai+Soulijos%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "281067986"
+        }
+      ],
+      "url": "https://www.shazam.com/track/508873690/sirikkalam-parakkalam"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "507493621",
+      "title": "Dhol (Theme Song)",
+      "subtitle": "Jakes Bejoy",
+      "share": {
+        "subject": "Dhol (Theme Song) - Jakes Bejoy",
+        "text": "I used Shazam to discover Dhol (Theme Song) by Jakes Bejoy.",
+        "href": "https://www.shazam.com/track/507493621/dhol-theme-song",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/88/f2/5c/88f25cb1-d7f7-20ab-0af8-c74a7ed0ca0f/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Dhol (Theme Song) by Jakes Bejoy.",
+        "html": "https://www.shazam.com/snippets/email-share/507493621?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/507493621"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/88/f2/5c/88f25cb1-d7f7-20ab-0af8-c74a7ed0ca0f/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/88/f2/5c/88f25cb1-d7f7-20ab-0af8-c74a7ed0ca0f/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/88/f2/5c/88f25cb1-d7f7-20ab-0af8-c74a7ed0ca0f/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:000105p:fcfcfcs:dedddat:c9cacaq:b2b1b0"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1497177085"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/d8/49/86d849b2-e000-151c-ccc7-ec5b73ca1d10/mzaf_10512649118401296306.plus.aac.p.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/dhol-theme-song/1497176728?i=1497177085&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/dhol-theme-song/1497176728?i=1497177085&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/dhol-theme-song/1497176728?i=1497177085&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Dhol%20%28Theme%20Song%29%20Jakes%20Bejoy"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dhol+%28Theme+Song%29%27%20artist%3A%27Jakes+Bejoy%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1471452169"
+        }
+      ],
+      "url": "https://www.shazam.com/track/507493621/dhol-theme-song"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "147845497",
+      "title": "Maanathe Mullaikku (From \"Breaking News Live\")",
+      "subtitle": "Parvathi Menon",
+      "share": {
+        "subject": "Maanathe Mullaikku (From \"Breaking News Live\") - Parvathi Menon",
+        "text": "I used Shazam to discover Maanathe Mullaikku (From \"Breaking News Live\") by Parvathi Menon.",
+        "href": "https://www.shazam.com/track/147845497/maanathe-mullaikku-from-breaking-news-live",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/66/ee/2a/66ee2a94-4904-afc2-7a35-bf147320aa2b/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Maanathe Mullaikku (From \"Breaking News Live\") by Parvathi Menon.",
+        "html": "https://www.shazam.com/snippets/email-share/147845497?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/147845497"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/66/ee/2a/66ee2a94-4904-afc2-7a35-bf147320aa2b/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/66/ee/2a/66ee2a94-4904-afc2-7a35-bf147320aa2b/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/66/ee/2a/66ee2a94-4904-afc2-7a35-bf147320aa2b/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:aaaaaap:040e09s:410000t:252d29q:562222"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "974820343"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/b7/37/03b7376c-7c19-e362-8c4c-335010f96deb/mzaf_14215976537039657700.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/maanathe-mullaikku-from-breaking-news-live/974819097?i=974820343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/maanathe-mullaikku-from-breaking-news-live/974819097?i=974820343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/maanathe-mullaikku-from-breaking-news-live/974819097?i=974820343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Maanathe%20Mullaikku%20%28From%20%22Breaking%20News%20Live%22%29%20Parvathi%20Menon"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Maanathe+Mullaikku+%28From+%22Breaking+News+Live%22%29%27%20artist%3A%27Parvathi+Menon%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "518120951"
+        }
+      ],
+      "url": "https://www.shazam.com/track/147845497/maanathe-mullaikku-from-breaking-news-live"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "153973765",
+      "title": "Aigiri Nandini",
+      "subtitle": "Brodha V",
+      "share": {
+        "subject": "Aigiri Nandini - Brodha V",
+        "text": "I used Shazam to discover Aigiri Nandini by Brodha V.",
+        "href": "https://www.shazam.com/track/153973765/aigiri-nandini",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/c6/f8/f4/c6f8f4ab-d47d-061b-050c-371f9178cce5/artwork.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Aigiri Nandini by Brodha V.",
+        "html": "https://www.shazam.com/snippets/email-share/153973765?lang=en-US&country=US",
+        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/ab/f5/b2abf5fc-4133-94d2-172f-61a6beef1f87/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/153973765"
+      },
+      "images": {
+        "background": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/b2/ab/f5/b2abf5fc-4133-94d2-172f-61a6beef1f87/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/c6/f8/f4/c6f8f4ab-d47d-061b-050c-371f9178cce5/artwork.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/c6/f8/f4/c6f8f4ab-d47d-061b-050c-371f9178cce5/artwork.jpg/400x400cc.jpg",
+        "joecolor": "b:222f31p:fffeffs:ebc4a1t:d2d4d5q:c3a68a"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1598359089"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/31/aa/3a31aab6-d8a5-6018-0d45-5dccfaa2fd97/mzaf_5694129275177479561.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/aigiri-nandini/1598359088?i=1598359089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/aigiri-nandini/1598359088?i=1598359089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/aigiri-nandini/1598359088?i=1598359089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Aigiri%20Nandini%20Brodha%20V"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Aigiri+Nandini%27%20artist%3A%27Brodha+V%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "388811568"
+        }
+      ],
+      "url": "https://www.shazam.com/track/153973765/aigiri-nandini"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "432470473",
+      "title": "Nilapakshi Sad Version",
+      "subtitle": "Sushin Shyam & Neha S. Nair",
+      "share": {
+        "subject": "Nilapakshi Sad Version - Sushin Shyam & Neha S. Nair",
+        "text": "I used Shazam to discover Nilapakshi Sad Version by Sushin Shyam & Neha S. Nair.",
+        "href": "https://www.shazam.com/track/432470473/nilapakshi-sad-version",
+        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/79/8f/7e/798f7e53-8933-2244-74bd-e038289a21e9/728620788787.png/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Nilapakshi Sad Version by Sushin Shyam & Neha S. Nair.",
+        "html": "https://www.shazam.com/snippets/email-share/432470473?lang=en-US&country=US",
+        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/3c/6b/73/3c6b730e-97c8-b273-fa05-bc4d9557e594/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/432470473"
+      },
+      "images": {
+        "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/3c/6b/73/3c6b730e-97c8-b273-fa05-bc4d9557e594/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/79/8f/7e/798f7e53-8933-2244-74bd-e038289a21e9/728620788787.png/400x400cc.jpg",
+        "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/79/8f/7e/798f7e53-8933-2244-74bd-e038289a21e9/728620788787.png/400x400cc.jpg",
+        "joecolor": "b:685f26p:fee0a4s:fece86t:e0c68bq:e0b873"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1606573375"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7f/ae/c9/7faec903-f062-8d58-5cdd-4168b346eeeb/mzaf_2071883231060928715.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/nilapakshi-sad-version/1606573368?i=1606573375&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/nilapakshi-sad-version/1606573368?i=1606573375&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/nilapakshi-sad-version/1606573368?i=1606573375&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Nilapakshi%20Sad%20Version%20Sushin%20Shyam"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Nilapakshi+Sad+Version%27%20artist%3A%27Sushin+Shyam++Neha+S.+Nair%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "827484156"
+        }
+      ],
+      "url": "https://www.shazam.com/track/432470473/nilapakshi-sad-version"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "244931374",
+      "title": "Paarvanavidhuve (From \"Oru Vadakkan Selfie\")",
+      "subtitle": "Harish Sivaramakrishnan",
+      "share": {
+        "subject": "Paarvanavidhuve (From \"Oru Vadakkan Selfie\") - Harish Sivaramakrishnan",
+        "text": "I used Shazam to discover Paarvanavidhuve (From \"Oru Vadakkan Selfie\") by Harish Sivaramakrishnan.",
+        "href": "https://www.shazam.com/track/244931374/paarvanavidhuve-from-oru-vadakkan-selfie",
+        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/b9/d8/1e/b9d81e19-dfc8-bf51-670d-5233a68c741c/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Paarvanavidhuve (From \"Oru Vadakkan Selfie\") by Harish Sivaramakrishnan.",
+        "html": "https://www.shazam.com/snippets/email-share/244931374?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/244931374"
+      },
+      "images": {
+        "background": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/b9/d8/1e/b9d81e19-dfc8-bf51-670d-5233a68c741c/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/b9/d8/1e/b9d81e19-dfc8-bf51-670d-5233a68c741c/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/b9/d8/1e/b9d81e19-dfc8-bf51-670d-5233a68c741c/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:241a10p:e7eee7s:72a6eet:c0c4bcq:628ac2"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "987537270"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/13/b4/4b13b4d0-2f0b-73c1-8ffc-067e743dc394/mzaf_5298003948260050683.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/paarvanavidhuve-from-oru-vadakkan-selfie/987537251?i=987537270&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/paarvanavidhuve-from-oru-vadakkan-selfie/987537251?i=987537270&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/paarvanavidhuve-from-oru-vadakkan-selfie/987537251?i=987537270&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Paarvanavidhuve%20%28From%20%22Oru%20Vadakkan%20Selfie%22%29%20Harish%20Sivaramakrishnan"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Paarvanavidhuve+%28From+%22Oru+Vadakkan+Selfie%22%29%27%20artist%3A%27Harish+Sivaramakrishnan%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "333074860"
+        }
+      ],
+      "url": "https://www.shazam.com/track/244931374/paarvanavidhuve-from-oru-vadakkan-selfie"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "470699869",
+      "title": "Malayali Da",
+      "subtitle": "ThirumaLi",
+      "share": {
+        "subject": "Malayali Da - ThirumaLi",
+        "text": "I used Shazam to discover Malayali Da by ThirumaLi.",
+        "href": "https://www.shazam.com/track/470699869/malayali-da",
+        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/76/dd/c6/76ddc6ad-4c2d-602f-a38a-5c980aa2bea7/artwork.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Malayali Da by ThirumaLi.",
+        "html": "https://www.shazam.com/snippets/email-share/470699869?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/470699869"
+      },
+      "images": {
+        "background": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/76/dd/c6/76ddc6ad-4c2d-602f-a38a-5c980aa2bea7/artwork.jpg/400x400cc.jpg",
+        "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/76/dd/c6/76ddc6ad-4c2d-602f-a38a-5c980aa2bea7/artwork.jpg/400x400cc.jpg",
+        "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/76/dd/c6/76ddc6ad-4c2d-602f-a38a-5c980aa2bea7/artwork.jpg/400x400cc.jpg",
+        "joecolor": "b:c1beb7p:1b1616s:2d2d2et:3c3836q:4a4a49"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1470084919"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/64/24/c064242a-0971-af15-e904-930bd162debc/mzaf_6755251360027584244.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/malayali-da/1470084916?i=1470084919&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/malayali-da/1470084916?i=1470084919&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/malayali-da/1470084916?i=1470084919&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Malayali%20Da%20ThirumaLi"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Malayali+Da%27%20artist%3A%27ThirumaLi%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1488936267"
+        }
+      ],
+      "url": "https://www.shazam.com/track/470699869/malayali-da"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "500716811",
+      "title": "Ritha Dhamava",
+      "subtitle": "Joel Johns & Bhoomee",
+      "share": {
+        "subject": "Ritha Dhamava - Joel Johns & Bhoomee",
+        "text": "I used Shazam to discover Ritha Dhamava by Joel Johns & Bhoomee.",
+        "href": "https://www.shazam.com/track/500716811/ritha-dhamava",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/0c/28/1b/0c281b20-5de7-cb98-5969-3902d5a688a9/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Ritha Dhamava by Joel Johns & Bhoomee.",
+        "html": "https://www.shazam.com/snippets/email-share/500716811?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/500716811"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/0c/28/1b/0c281b20-5de7-cb98-5969-3902d5a688a9/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/0c/28/1b/0c281b20-5de7-cb98-5969-3902d5a688a9/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/0c/28/1b/0c281b20-5de7-cb98-5969-3902d5a688a9/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:050503p:e6d647s:f62625t:b9ac39q:c51f1e"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1475636860"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/09/55/e9/0955e930-d755-2124-f399-714c9c68b9c4/mzaf_298442241746978911.plus.aac.p.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/ritha-dhamava/1475636647?i=1475636860&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/ritha-dhamava/1475636647?i=1475636860&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/ritha-dhamava/1475636647?i=1475636860&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Ritha%20Dhamava%20Bhoomee"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ritha+Dhamava%27%20artist%3A%27Joel+Johns++Bhoomee%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1571893560"
+        }
+      ],
+      "url": "https://www.shazam.com/track/500716811/ritha-dhamava"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "438419534",
+      "title": "Yuvan Mashup 2k18 (Straight from Our Hearts)",
+      "subtitle": "Stanley Xavier & Sathya Narayanan",
+      "share": {
+        "subject": "Yuvan Mashup 2k18 (Straight from Our Hearts) - Stanley Xavier & Sathya Narayanan",
+        "text": "I used Shazam to discover Yuvan Mashup 2k18 (Straight from Our Hearts) by Stanley Xavier & Sathya Narayanan.",
+        "href": "https://www.shazam.com/track/438419534/yuvan-mashup-2k18-straight-from-our-hearts",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/50/d7/3e/50d73e25-bd07-e7ee-09c9-2b92a6922ac3/859728357985_cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Yuvan Mashup 2k18 (Straight from Our Hearts) by Stanley Xavier & Sathya Narayanan.",
+        "html": "https://www.shazam.com/snippets/email-share/438419534?lang=en-US&country=US",
+        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/3b/89/b2/3b89b2ed-164c-fc49-09f2-625cb55a43ca/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/438419534"
+      },
+      "images": {
+        "background": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/3b/89/b2/3b89b2ed-164c-fc49-09f2-625cb55a43ca/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/50/d7/3e/50d73e25-bd07-e7ee-09c9-2b92a6922ac3/859728357985_cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/50/d7/3e/50d73e25-bd07-e7ee-09c9-2b92a6922ac3/859728357985_cover.jpg/400x400cc.jpg"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:subscribe",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:subscribe",
+                "type": "uri",
+                "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Yuvan%20Mashup%202k18%20%28Straight%20from%20Our%20Hearts%29%20Stanley%20Xavier"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Yuvan+Mashup+2k18+%28Straight+from+Our+Hearts%29%27%20artist%3A%27Stanley+Xavier++Sathya+Narayanan%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1263160597"
+        }
+      ],
+      "url": "https://www.shazam.com/track/438419534/yuvan-mashup-2k18-straight-from-our-hearts"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "514798817",
+      "title": "Karalurappulla Keralam",
+      "subtitle": "Ishaan Dev",
+      "share": {
+        "subject": "Karalurappulla Keralam - Ishaan Dev",
+        "text": "I used Shazam to discover Karalurappulla Keralam by Ishaan Dev.",
+        "href": "https://www.shazam.com/track/514798817/karalurappulla-keralam",
+        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d8/da/1c/d8da1ce2-5b77-5752-dfd2-e539e5713110/859738668194_cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Karalurappulla Keralam by Ishaan Dev.",
+        "html": "https://www.shazam.com/snippets/email-share/514798817?lang=en-US&country=US",
+        "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/6a/11/4b/6a114b24-0f2a-a3b6-acd5-f3dbea7b24fd/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/514798817"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/6a/11/4b/6a114b24-0f2a-a3b6-acd5-f3dbea7b24fd/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d8/da/1c/d8da1ce2-5b77-5752-dfd2-e539e5713110/859738668194_cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d8/da/1c/d8da1ce2-5b77-5752-dfd2-e539e5713110/859738668194_cover.jpg/400x400cc.jpg",
+        "joecolor": "b:fbf5f7p:0e0d08s:0f0f0dt:3d3b37q:3e3d3c"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1509253853"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/74/f9/2574f950-81eb-2883-7f53-895716c121c5/mzaf_11659743366943577275.plus.aac.p.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/karalurappulla-keralam/1509253843?i=1509253853&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/karalurappulla-keralam/1509253843?i=1509253853&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/karalurappulla-keralam/1509253843?i=1509253853&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Karalurappulla%20Keralam%20Ishaan%20Dev"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Karalurappulla+Keralam%27%20artist%3A%27Ishaan+Dev%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1118195376"
+        }
+      ],
+      "url": "https://www.shazam.com/track/514798817/karalurappulla-keralam"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "292430041",
+      "title": "Varavaa Varavaa",
+      "subtitle": "Anirudh Ravichander & Vignesh Shivan",
+      "share": {
+        "subject": "Varavaa Varavaa - Anirudh Ravichander & Vignesh Shivan",
+        "text": "I used Shazam to discover Varavaa Varavaa by Anirudh Ravichander & Vignesh Shivan.",
+        "href": "https://www.shazam.com/track/292430041/varavaa-varavaa",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/7f/71/2f/7f712f0b-0458-37b9-d997-4c175911aeb9/naanum_rowdy_album.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Varavaa Varavaa by Anirudh Ravichander & Vignesh Shivan.",
+        "html": "https://www.shazam.com/snippets/email-share/292430041?lang=en-US&country=US",
+        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/1a/de/75/1ade7590-36ad-5a12-3673-1b1acdf282a0/mzl.hybftcad.jpg/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/292430041"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/1a/de/75/1ade7590-36ad-5a12-3673-1b1acdf282a0/mzl.hybftcad.jpg/800x800cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/7f/71/2f/7f712f0b-0458-37b9-d997-4c175911aeb9/naanum_rowdy_album.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/7f/71/2f/7f712f0b-0458-37b9-d997-4c175911aeb9/naanum_rowdy_album.jpg/400x400cc.jpg",
+        "joecolor": "b:8a4c1cp:f9f5f2s:f2b24bt:e3d3c7q:dd9d42"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1049634461"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/41/a1/21/41a12174-b22b-6970-3024-cf66c275740c/mzaf_16763978314722482824.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/varavaa-varavaa/1049634267?i=1049634461&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/varavaa-varavaa/1049634267?i=1049634461&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/varavaa-varavaa/1049634267?i=1049634461&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Varavaa%20Varavaa%20Anirudh%20Ravichander"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Varavaa+Varavaa%27%20artist%3A%27Anirudh+Ravichander++Vignesh+Shivan%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "480976476"
+        }
+      ],
+      "url": "https://www.shazam.com/track/292430041/varavaa-varavaa"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "334011929",
+      "title": "Neeye",
+      "subtitle": "Yazin Nizar & Sharanya Srinivas",
+      "share": {
+        "subject": "Neeye - Yazin Nizar & Sharanya Srinivas",
+        "text": "I used Shazam to discover Neeye by Yazin Nizar & Sharanya Srinivas.",
+        "href": "https://www.shazam.com/track/334011929/neeye",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/cb/97/c0/cb97c002-cd98-1b3a-2d3a-949ab0e4fc7b/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Neeye by Yazin Nizar & Sharanya Srinivas.",
+        "html": "https://www.shazam.com/snippets/email-share/334011929?lang=en-US&country=US",
+        "snapchat": "https://www.shazam.com/partner/sc/track/334011929"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/cb/97/c0/cb97c002-cd98-1b3a-2d3a-949ab0e4fc7b/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/cb/97/c0/cb97c002-cd98-1b3a-2d3a-949ab0e4fc7b/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/cb/97/c0/cb97c002-cd98-1b3a-2d3a-949ab0e4fc7b/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:d0d0cep:050504s:302d23t:2e2e2dq:504d45"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1485793032"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/7f/f4/247ff4e7-9ffe-4a86-6c4f-c65e45baccc5/mzaf_15781508233110829540.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/neeye/1485793027?i=1485793032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/neeye/1485793027?i=1485793032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/neeye/1485793027?i=1485793032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Neeye%20Yazin%20Nizar"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Neeye%27%20artist%3A%27Yazin+Nizar++Sharanya+Srinivas%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "549604097"
+        }
+      ],
+      "url": "https://www.shazam.com/track/334011929/neeye"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "506371295",
+      "title": "Maadeva",
+      "subtitle": "Sanjith Hegde, Hanumankind & Charan Raj",
+      "share": {
+        "subject": "Maadeva - Sanjith Hegde, Hanumankind & Charan Raj",
+        "text": "I used Shazam to discover Maadeva by Sanjith Hegde, Hanumankind & Charan Raj.",
+        "href": "https://www.shazam.com/track/506371295/maadeva",
+        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/e5/a1/f6/e5a1f663-beb7-4b7e-0f80-0caa00010b2f/8904337241629.png/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Maadeva by Sanjith Hegde, Hanumankind & Charan Raj.",
+        "html": "https://www.shazam.com/snippets/email-share/506371295?lang=en-US&country=US",
+        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/9e/e0/0d/9ee00d88-9867-332b-46e6-b1a1aaeb6f0e/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/506371295"
+      },
+      "images": {
+        "background": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/9e/e0/0d/9ee00d88-9867-332b-46e6-b1a1aaeb6f0e/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/e5/a1/f6/e5a1f663-beb7-4b7e-0f80-0caa00010b2f/8904337241629.png/400x400cc.jpg",
+        "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/e5/a1/f6/e5a1f663-beb7-4b7e-0f80-0caa00010b2f/8904337241629.png/400x400cc.jpg",
+        "joecolor": "b:eff0ebp:0d0e0cs:2d2416t:3a3b38q:544d40"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1606752384"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/28/20/21/282021fb-e944-5f24-1b65-c62867ccd847/mzaf_1382687758269018615.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/maadeva/1606752383?i=1606752384&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/maadeva/1606752383?i=1606752384&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/maadeva/1606752383?i=1606752384&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Maadeva%20Sanjith%20Hegde"
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Maadeva%27%20artist%3A%27Sanjith+Hegde%2C+Hanumankind++Charan+Raj%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1251951823"
+        }
+      ],
+      "url": "https://www.shazam.com/track/506371295/maadeva"
+    },
+    {
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "359822640",
+      "title": "Yaanji (From \"Vikram Vedha\")",
+      "subtitle": "Sam C.S., Anirudh Ravichander & Shakthisree Gopalan",
+      "share": {
+        "subject": "Yaanji (From \"Vikram Vedha\") - Sam C.S., Anirudh Ravichander & Shakthisree Gopalan",
+        "text": "I used Shazam to discover Yaanji (From \"Vikram Vedha\") by Sam C.S., Anirudh Ravichander & Shakthisree Gopalan.",
+        "href": "https://www.shazam.com/track/359822640/yaanji-from-vikram-vedha",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/d9/68/30/d9683005-aeea-746a-a23d-220624f3c0fd/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Yaanji (From \"Vikram Vedha\") by Sam C.S., Anirudh Ravichander & Shakthisree Gopalan.",
+        "html": "https://www.shazam.com/snippets/email-share/359822640?lang=en-US&country=US",
+        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/51/3b/b8/513bb8d5-f934-0da8-9650-be89a3a3c37f/mza_3068448473619100532.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/359822640"
+      },
+      "images": {
+        "background": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/51/3b/b8/513bb8d5-f934-0da8-9650-be89a3a3c37f/mza_3068448473619100532.png/800x800cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/d9/68/30/d9683005-aeea-746a-a23d-220624f3c0fd/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/d9/68/30/d9683005-aeea-746a-a23d-220624f3c0fd/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:262626p:e8e6e7s:cececet:c1c0c1q:acacac"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1247399955"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/9a/65/cd9a6595-cd11-cbed-bf8c-3e9156b52a44/mzaf_5148802841578531372.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/us/album/yaanji-from-vikram-vedha/1247399314?i=1247399955&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/us/album/yaanji-from-vikram-vedha/1247399314?i=1247399955&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          },
+          {
+            "caption": "BUY",
+            "actions": [
+              {
+                "type": "uri",
+                "uri": "https://itunes.apple.com/us/album/yaanji-from-vikram-vedha/1247399314?i=1247399955&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+              }
+            ],
+            "beacondata": {
+              "type": "buy",
+              "providername": "itunes"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "type": "buy",
+            "listcaption": "Buy on iTunes",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+            "colouroverflowimage": false,
+            "providername": "itunes"
+          }
+        ],
+        "providers": [
+          {
+            "caption": "Open in Spotify",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:spotify:searchdeeplink",
+                "type": "uri",
+                "uri": "spotify:search:Yaanji%20%28From%20%22Vikram%20Vedha%22%29%20Sam%20C.S."
+              }
+            ],
+            "type": "SPOTIFY"
+          },
+          {
+            "caption": "Open in Deezer",
+            "images": {
+              "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+              "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+            },
+            "actions": [
+              {
+                "name": "hub:deezer:searchdeeplink",
+                "type": "uri",
+                "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Yaanji+%28From+%22Vikram+Vedha%22%29%27%20artist%3A%27Sam+C.S.%2C+Anirudh+Ravichander++Shakthisree+Gopalan%27%7D"
+              }
+            ],
+            "type": "DEEZER"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "id": "42",
+          "adamid": "1151736699"
+        }
+      ],
+      "url": "https://www.shazam.com/track/359822640/yaanji-from-vikram-vedha"
+    }
+  ]
+}
