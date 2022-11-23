@@ -1,9 +1,15 @@
-import { AiOutlineBell } from "react-icons/ai";
+import { AiOutlineBell, AiOutlineUser } from "react-icons/ai";
 import { loadStripe } from "@stripe/stripe-js";
 import { useKeycloak } from "@react-keycloak/web";
-export default function Navbar() {
-  let stripePromise: any;
+import { getUser } from "../../storage/user";
+import { useSelector } from "react-redux";
+import { FcApproval, FcCurrencyExchange } from "react-icons/fc";
 
+export default function Navbar() {
+  const user = useSelector((state: any) => state.songs.user);
+  const subStatus = useSelector((state: any) => state.songs.subscription);
+  console.log(user + " " + subStatus + "from nvabar");
+  let stripePromise: any;
   const { keycloak } = useKeycloak();
   const getStripe = () => {
     if (!stripePromise) {
@@ -42,22 +48,37 @@ export default function Navbar() {
           alt=""
           style={{ height: "50px" }}
         /> */}
+        {subStatus == "true" ? (
+          <button className="btn " style={{ color: "rgba(222,222,222,.5)" }}>
+            <FcApproval size={24} style={{ marginTop: "-4px" }} />
+            &nbsp; Premium Member
+          </button>
+        ) : (
+          <button
+            onClick={() => {
+              redirectCheckout();
+            }}
+            className="btn "
+            style={{ color: "rgba(222,222,222,.5)" }}
+          >
+            <FcCurrencyExchange size={24} style={{ marginTop: "-4px" }} />
+            &nbsp;Buy Premium
+          </button>
+        )}
         <AiOutlineBell size={24} color="white" />
-        &nbsp;
+        &nbsp; &nbsp;
         <button
-          onClick={() => {
-            redirectCheckout();
-          }}
-          className="btn text-white"
+          disabled={true}
+          className="btn btn-dark text-white text-uppercase"
         >
-          Buy Premium
+          <AiOutlineUser size={24} /> {user}
         </button>
-        &nbsp;
+        &nbsp; &nbsp;
         <button
           onClick={() => {
             keycloak.logout();
           }}
-          className="btn btn-warning"
+          className="btn btn-warning text-uppercase"
         >
           Logout
         </button>

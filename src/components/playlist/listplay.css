@@ -1,0 +1,9 @@
+.playlist-tiles {
+  transition: 0.5s ease-in-out;
+  cursor: pointer;
+  font-weight: 500;
+}
+.playlist-tiles:hover {
+  scale: 1.05;
+  background: dodgerblue !important;
+}

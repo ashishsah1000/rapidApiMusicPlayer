@@ -21,3 +21,36 @@
 a {
   text-decoration: none;
 }
+.premium-chips {
+  /* background-color: rgb(34, 8, 1); */
+  transition: 1s ease-in-out;
+}
+.premium-chips:hover {
+}
+.pr-holder {
+  transition: 1s ease-in-out;
+  cursor: pointer;
+}
+.pr-holder:hover {
+  color: white;
+  scale: 1.2;
+}
+
+/* .pr-share {
+  background: dodgerblue;
+} */
+.pr-stack {
+  /* background-color: teal; */
+}
+.pr-holder h5 {
+  color: rgb(9, 88, 27);
+}
+.pr-holder p {
+  font-size: 10px;
+}
+.song-playlists {
+  transition: 0.5s ease-in-out;
+}
+.song-playlists:hover {
+  background: dodgerblue !important;
+}

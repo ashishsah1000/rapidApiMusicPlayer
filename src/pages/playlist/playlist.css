@@ -1,0 +1,15 @@
+.new-playlist-modal .modal-content {
+  background-color: rgb(1, 1, 30);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25),
+    0 3px 10px 5px rgba(0, 0, 0, 0.05) !important;
+}
+.new-playlist-modal .modal-content {
+  color: ghostwhite !important;
+}
+
+.btn-close {
+  color: ghostwhite !important;
+}
+.modal-header {
+  border: none !important;
+}

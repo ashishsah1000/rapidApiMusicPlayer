@@ -71,7 +71,7 @@ export default function TopList() {
         >
           {tracks.map((x, i) => {
             return (
-              <Link to={`/song/${x.key}`}>
+              <Link to={`/song/${x.key}`} key={x.key}>
                 <div
                   className="m-3 top-tracks-list"
                   key={x.key}
