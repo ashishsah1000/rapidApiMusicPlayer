@@ -1,4 +1,4 @@
-# setting the things up 
+# Setting the things up 
 ## setting up keycloak with docker 
  docker run -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=admin -p 8080:8080  sleighzy/keycloak
 
@@ -14,10 +14,8 @@ this should redirect you to login page and as we have setted username and passwo
 
 - add users in keycloak for multiple users so that premium option can be checked 
 
-**image of login page - keycloak**
-
-
-**image of homepage page - keycloak**
+# Error code:428 Do not exceed the req limits
+I have rapid api key and it has 500 request after that app will not work you have to change the key or buy the costly api request 
 
 
 
