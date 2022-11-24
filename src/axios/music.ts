@@ -1,6 +1,6 @@
 import axios from "axios";
 var apiUrl: string = "https://shazam.p.rapidapi.com";
-var key: string = "ddcee9800emshe14682e9c7cdd34p1d1fe7jsnacdec73e9c76";
+var key: string = "aee5892085msha17877a3fa42ccap143b09jsn33375362f758";
 // var apiUrl: string = "";
 export async function searchMusic(keyword: string) {
   let res: [] = [];
@@ -14,16 +14,16 @@ export async function searchMusic(keyword: string) {
     },
   };
 
-  // await axios
-  //   .request(options)
-  //   .then(function (response) {
-  //     res = response.data.tracks.hits;
-  //     console.log("response is", res);
-  //   })
-  //   .catch(function (error) {
-  //     console.error(error);
-  //   });
-  // console.log("from below", res);
+  await axios
+    .request(options)
+    .then(function (response) {
+      res = response.data.tracks.hits;
+      console.log("response is", res);
+    })
+    .catch(function (error) {
+      console.error(error);
+    });
+  console.log("from below", res);
   return res;
 }
 
@@ -44,17 +44,17 @@ export const recommendEnglishSong = async (listid: string) => {
     },
   };
 
-  // return axios
-  //   .request(options)
-  //   .then(function (response) {
-  //     res = response.data.tracks;
-  //     console.log("Recommended usa ", res);
-  //     return res;
-  //   })
-  //   .catch(function (error) {
-  //     console.error(error);
-  //   });
-  // console.log("from below", res);
+  return axios
+    .request(options)
+    .then(function (response) {
+      res = response.data.tracks;
+      console.log("Recommended usa ", res);
+      return res;
+    })
+    .catch(function (error) {
+      console.error(error);
+    });
+  console.log("from below", res);
 
   return res;
 };

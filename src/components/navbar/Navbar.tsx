@@ -4,6 +4,8 @@ import { useKeycloak } from "@react-keycloak/web";
 import { getUser } from "../../storage/user";
 import { useSelector } from "react-redux";
 import { FcApproval, FcCurrencyExchange } from "react-icons/fc";
+import { resetPlaylist } from "../../storage/playlist";
+import resetLikedSongs from "../../storage/user";
 
 export default function Navbar() {
   const user = useSelector((state: any) => state.songs.user);
@@ -39,7 +41,16 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="navbar navbar-light  justify-content-between">
+    <nav
+      className="navbar   justify-content-between"
+      style={{
+        position: "absolute",
+        top: "0px",
+        width: "100vw",
+        left: "0px",
+        background: "rgba(22,22,22,0) !important",
+      }}
+    >
       <a className="navbar-brand"></a>
       <div className="p-3">
         {/* <img
@@ -76,6 +87,8 @@ export default function Navbar() {
         &nbsp; &nbsp;
         <button
           onClick={() => {
+            resetPlaylist();
+            resetLikedSongs();
             keycloak.logout();
           }}
           className="btn btn-warning text-uppercase"

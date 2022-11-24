@@ -50,5 +50,13 @@ export function deteletLikedSong(id: string) {
   localStorage.setItem("liked", JSON.stringify(likedSongs));
   // console.log("song should be delted");
 }
+export default function resetLikedSongs() {
+  var setLike: user = {
+    username: localStorage.getItem("user") || "",
+    likedSongs: [],
+  };
+  // console.log(setLike);
+  localStorage.setItem("liked", JSON.stringify(setLike));
+}
 
 export {};

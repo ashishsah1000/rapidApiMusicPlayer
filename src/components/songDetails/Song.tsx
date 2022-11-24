@@ -38,7 +38,7 @@ export default function Song() {
       url: "https://shazam.p.rapidapi.com/songs/get-details",
       params: { key: id, locale: "en-US" },
       headers: {
-        "X-RapidAPI-Key": "ddcee9800emshe14682e9c7cdd34p1d1fe7jsnacdec73e9c76",
+        "X-RapidAPI-Key": "aee5892085msha17877a3fa42ccap143b09jsn33375362f758",
         "X-RapidAPI-Host": "shazam.p.rapidapi.com",
       },
     };
@@ -81,7 +81,7 @@ export default function Song() {
       url: "https://shazam.p.rapidapi.com/songs/list-recommendations",
       params: { key: id, locale: "en-US" },
       headers: {
-        "X-RapidAPI-Key": "ddcee9800emshe14682e9c7cdd34p1d1fe7jsnacdec73e9c76",
+        "X-RapidAPI-Key": "aee5892085msha17877a3fa42ccap143b09jsn33375362f758",
         "X-RapidAPI-Host": "shazam.p.rapidapi.com",
       },
     };
@@ -114,7 +114,7 @@ export default function Song() {
 
   useEffect(() => {
     if (stop == 0) {
-      // getSongInfo();
+      getSongInfo();
       stop++;
     }
     var likedSongs: song[] = getfav();

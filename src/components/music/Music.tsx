@@ -1,5 +1,7 @@
 import "./music.css";
 import { AiFillPlayCircle } from "react-icons/ai";
+import { useDispatch } from "react-redux";
+import { changeBackground } from "../../features/songs";
 interface music {
   img?: string;
   title?: string;
@@ -10,10 +12,14 @@ export default function Music({
   title = "new Title",
   details = "we are adding the details here",
 }: music) {
+  const dispatch = useDispatch();
   return (
     <div
       className="music-album"
       style={{ width: "300px", height: 300, overflow: "hidden" }}
+      onMouseEnter={() => {
+        // dispatch(changeBackground(img));
+      }}
     >
       <div
         className="music-image"
@@ -23,7 +29,6 @@ export default function Music({
           background: `url(${img})`,
           backgroundSize: "cover",
           textDecoration: "none",
-        
         }}
       ></div>
       <div className="hover-music p-3">

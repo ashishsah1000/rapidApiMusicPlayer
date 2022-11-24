@@ -1,41 +1,19 @@
 # Snaps of the app
+[Youtube private video for whole project](https://www.youtube.com/watch?v=g68H0WJOA2Q)
+You can reffer to the whole walk through how the project look and feel like
 
-## keycloak authentication
-<img width="1350" alt="Screenshot 2022-11-22 at 1 54 25 AM" src="https://user-images.githubusercontent.com/24749090/203152503-0bfa2b7b-ceee-4b58-856e-4ac2ddf6885e.png">
-
-## home screen
-<img width="1352" alt="Screenshot 2022-11-22 at 1 54 41 AM" src="https://user-images.githubusercontent.com/24749090/203152640-1bdf1c6d-fa75-4f37-98fc-dea2df4ee6b9.png">
-
-<img width="1352" alt="Screenshot 2022-11-22 at 1 55 19 AM" src="https://user-images.githubusercontent.com/24749090/203152713-4e2a7d2f-7567-4974-97b3-ed55517dfb0b.png">
-
-## clicked song
-<img width="1352" alt="Screenshot 2022-11-22 at 1 55 45 AM" src="https://user-images.githubusercontent.com/24749090/203153086-f35d2c8c-e56d-4ad2-bdff-597d2982ff3d.png">
+## Setup 
+ setup.md file is present please look at that for the setting up the enviroment or feel free to reach me out
 
 
 
-## search box
-<img width="1352" alt="Screenshot 2022-11-22 at 1 57 24 AM" src="https://user-images.githubusercontent.com/24749090/203152885-bf5c2e43-bb22-4cc5-9717-404c00834d4a.png">
+ # overview things it does
+ - clean UI search add delete songs
+ -  like songs and get recommendations
+ -  Premium : create multiple dynamic playlist and option to share
+ -  uses redux for state managment
+  
 
-<img width="1351" alt="Screenshot 2022-11-22 at 1 57 46 AM" src="https://user-images.githubusercontent.com/24749090/203152952-485150bf-3f78-40c4-8de0-7035cb47cd86.png">
-
-
-## liked song
-
-<img width="1352" alt="Screenshot 2022-11-22 at 1 57 58 AM" src="https://user-images.githubusercontent.com/24749090/203153183-dcb3c499-b2a0-441a-88e2-05f15781a3f1.png">
-
-## stripe payment demo
-
-<img width="1352" alt="Screenshot 2022-11-22 at 1 58 22 AM" src="https://user-images.githubusercontent.com/24749090/203153267-381bb3b9-2adc-4b17-a46c-1a25ec4277ec.png">
-
-# Status
-- Liked songs retain in the memory even after closing the browser
-- was unable to add playlist feature. Will take a few hours more
-- Not responsive and only taken test on 14 inch mac. 
-
-# todo
--  Add playlist feature
--  a bit of formating and structuring 
--  check on mulitple device
 
 # Getting Started with Create React App
 

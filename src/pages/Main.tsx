@@ -73,32 +73,47 @@ export default function Main() {
 
   useEffect(() => {}, []);
   return (
-    <div className="w-100 h-100 d-flex flex-row ">
+    <div>
+      <Navbar />
       <div
-        className="d-flex align-items-center justify-content-center"
-        style={{ minWidth: "250px", height: "100vh", zIndex: 99 }}
-      >
-        {/* side nav goes here */}
-        <Sidenav />
-      </div>
-      <div
-        className="flex-grow-1 main-container "
+        className=" d-flex flex-row "
         style={{
-          background: `url(${background})`,
+          width: "100vw",
+          height: "100vh",
+          overflow: "hidden",
         }}
       >
-        <div className="inner-container">
-          <Navbar />
-          <Routes>
-            <Route path="/home" element={<TopList />} />
-            <Route path="/search" element={<Search />} />
-            <Route path="/liked" element={<Liked />} />
-            <Route path="/playlist" element={<Playlist />} />
-            <Route path="/cancel" element={<Error />} />
-            <Route path="/success" element={<Success />} />
-            <Route path="/song/:id" element={<Song />} />
-            <Route path="*" element={<TopList />} />
-          </Routes>
+        <div
+          className="d-flex align-items-center justify-content-center"
+          style={{ minWidth: "250px", height: "100vh", zIndex: 99 }}
+        >
+          {/* side nav goes here */}
+          <Sidenav />
+        </div>
+        <div
+          className="flex-grow-1 main-container "
+          style={{
+            background: `url(${background})`,
+            overflow: "hidden",
+          }}
+        >
+          <div
+            className="inner-container"
+            style={{ height: "100vh", overflow: "hidden" }}
+          >
+            <div style={{ marginTop: "100px" }}>
+              <Routes>
+                <Route path="/home" element={<TopList />} />
+                <Route path="/search" element={<Search />} />
+                <Route path="/liked" element={<Liked />} />
+                <Route path="/playlist" element={<Playlist />} />
+                <Route path="/cancel" element={<Error />} />
+                <Route path="/success" element={<Success />} />
+                <Route path="/song/:id" element={<Song />} />
+                <Route path="*" element={<TopList />} />
+              </Routes>
+            </div>
+          </div>
         </div>
       </div>
     </div>
