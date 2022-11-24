@@ -1,6 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { Music, Navbar, Song, TopList } from "../components";
-import Banner from "../components/banner/Banner";
+import { Navbar, Song, TopList } from "../components";
 import Sidenav from "../components/sidenav/Sidenav";
 import { useSelector } from "react-redux";
 import "./main.css";
@@ -14,7 +13,6 @@ import { useDebugValue, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { setSubscription, setUser } from "../features/songs";
 import {
-  addSubscriber,
   intializeSubscribers,
   instializeSubscription,
   getSubscriptionStaus,
@@ -27,12 +25,13 @@ import Success from "./success/Success";
 // import Disc from "../components/disc/Disc"
 export default function Main() {
   var dispatch = useDispatch();
+
+  // dynamaically change the background of the whole app with redux
   const background: string = useSelector(
     (state: any) => state.songs.backgroundUrl
   );
-  // console.log(background);
+  //intialize keycloak for authentication
   const { keycloak, initialized } = useKeycloak();
-  // keycloak.logout();
   interface user {
     username: string;
   }
@@ -43,7 +42,7 @@ export default function Main() {
     dispatch(setUser(res.username));
     // console.log("retrive the username", res);
   };
-  // intialization to local storage
+  // intialization all the likes and subribers from the local storage
   userprofile();
   intializeSubscribers();
   instializeSubscription();
@@ -52,22 +51,21 @@ export default function Main() {
   // check and set subscribers
   var user: string = useSelector((state: any) => state.songs.user);
   checkSubscription(user);
-
   function checkSubscription(username: string) {
     var subs = getSubscribedUsers();
-    console.log("subscribed suers", subs, "checking with", user);
-    let tempusers: string[] = subs.filter((x) => {
+    // console.log("subscribed suers", subs, "checking with", user);
+    let tempusers: string[] = subs.filter((x: string) => {
       if (x == user) {
         return true;
       } else return false;
     });
-    console.log("tempUser", tempusers);
+    // console.log("tempUser", tempusers);
     if (tempusers.length > 0) {
       //  user has already subscribed
       setSubscriptionStaus();
       dispatch(setSubscription("true"));
     } else {
-      console.log("user need to buy a new one");
+      // console.log("user need to buy a new subscription");
       setSubscriptionStausfalse();
       dispatch(setSubscription("false"));
     }
@@ -101,10 +99,7 @@ export default function Main() {
             <Route path="/song/:id" element={<Song />} />
             <Route path="*" element={<TopList />} />
           </Routes>
-          {/* <TopList /> */}
-          {/* <Song /> */}
         </div>
-        {/* <Banner /> */}
       </div>
     </div>
   );

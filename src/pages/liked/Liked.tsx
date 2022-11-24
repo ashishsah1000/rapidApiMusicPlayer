@@ -1,13 +1,14 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { deteletLikedSong, getfav } from "../../storage/user";
 import "./liked.css";
 import { AiOutlineDelete } from "react-icons/ai";
+import { serverSongs, song } from "../../interface";
 export default function Liked() {
   const data = getfav();
-  const [liked, setliked] = useState(data);
+  const [liked, setliked] = useState<{}[]>(data);
   const handleDelete = () => {
-    let temp = getfav();
+    let temp: {}[] = getfav();
     setliked(temp);
   };
   // handle delete
@@ -27,7 +28,7 @@ export default function Liked() {
           overflowY: "scroll",
         }}
       >
-        {liked.map((x: any) => {
+        {liked.map((x: song) => {
           return (
             <div className="d-flex m-3 p-3 shadow-sm liked">
               <div className="">
@@ -49,7 +50,7 @@ export default function Liked() {
               <div
                 className="mt-2"
                 onClick={() => {
-                  deteletLikedSong(x.id);
+                  deteletLikedSong(x.id!);
                   handleDelete();
                 }}
                 role="button"

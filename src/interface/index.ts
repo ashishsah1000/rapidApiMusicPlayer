@@ -14,3 +14,20 @@ export interface user {
   likedSongs: song[];
   // playlists?: playlist[];
 }
+
+export interface songLists {
+  // song:
+}
+export interface serverSong {
+  key: string;
+  title: string;
+  subtitle: string;
+  images: {
+    background?: string;
+    coverart?: string;
+    coverarthq?: string;
+  };
+}
+export interface serverSongs {
+  songs: serverSong[];
+}

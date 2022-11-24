@@ -24,19 +24,23 @@ export default function Playlist() {
   const [show, setShow] = useState<boolean>(false);
   const [playlistName, setplaylistName] = useState<string>("");
   const [allPlaylist, setallPlaylist] = useState<playlist[]>(returnPlaylist());
+
+  // get the subscription from redux-state
   let sub = useSelector((state: any) => state.songs.subscription);
 
-  // modal
+  // refresh when we delete a playlist
   function refreshPlaylist() {
-    console.log("return playlist updated");
     setallPlaylist(returnPlaylist());
   }
+  // modal
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
+  // create playlist
   const handleCreatePlaylist = () => {
     if (playlistName.length <= 0) {
-      console.log("please add something to add");
+      alert("Add name of the playlist");
+      // console.log("please add something to add");
     } else {
       console.log("createing playlist");
       createPlaylist(playlistName);

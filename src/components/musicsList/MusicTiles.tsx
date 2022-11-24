@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
 import Music from "../music/Music";
-export default function MusicTiles({ musicArray = [] }) {
-  console.log("music array is", musicArray);
+
+import { serverSongs } from "../../interface";
+export default function MusicTiles({ songs = [] }:serverSongs) {
+  console.log("music array is", songs);
   return (
     <div style={{ width: "80vw", overflow: "scroll" }}>
       <div
@@ -9,10 +11,10 @@ export default function MusicTiles({ musicArray = [] }) {
         style={{
           background: "",
           padding: "40px 40px",
-          width: 350 * musicArray?.length,
+          width: 350 * songs?.length,
         }}
       >
-        {musicArray?.map((x: any) => {
+        {songs?.map((x: any) => {
           return (
             <div className="m-3" key={x.track.key} style={{ cursor: "pointer" }}>
               <Link to={`/song/${x.track.key}`}>

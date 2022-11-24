@@ -5,7 +5,6 @@ import { getUser } from "../../storage/user";
 export default function Success() {
   setSubscriptionStaus();
   addSubscriber(getUser());
-  useEffect(() => {}, []);
   return (
     <div
       className="d-flex flex-column align-items-center justify-content-center"

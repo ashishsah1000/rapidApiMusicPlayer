@@ -1,11 +1,6 @@
 import Modal from "react-bootstrap/Modal";
 import { useEffect, useState } from "react";
-import {
-  AiOutlineShareAlt,
-  AiFillPlayCircle,
-  AiOutlineDelete,
-} from "react-icons/ai";
-import { BsFileEarmarkMusicFill } from "react-icons/bs";
+import { AiOutlineShareAlt, AiOutlineDelete } from "react-icons/ai";
 
 import { song } from "../../interface";
 import { Link } from "react-router-dom";
@@ -121,7 +116,6 @@ export default function PlaylistSongs({
           </button>
         </div>
       </Modal.Body>
-      {/* <Modal.Footer></Modal.Footer> */}
     </Modal>
   );
 }

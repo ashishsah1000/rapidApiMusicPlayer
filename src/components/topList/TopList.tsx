@@ -10,12 +10,14 @@ import { useDispatch } from "react-redux";
 import Loading from "../loading/Loading";
 import { recommendEnglishSong } from "../../axios/music";
 export default function TopList() {
-  // console.log(musicData, musicData);
+  // data from a local stored file
+  // console.log(musicData, musicData)
+  // if there is blank response use this local stored json data
   let tracks = musicData.tracks;
   // console.log(200 * tracks.length + "px");
 
-  const [engsong, setengsong] = useState([]);
-  const [indSong, setindsong] = useState([]);
+  const [engsong, setengsong] = useState<{}[]>([]);
+  const [indSong, setindsong] = useState<{}[]>([]);
 
   const getEnglishSong = async () => {
     const res = await recommendEnglishSong("ip-city-chart-5128581");
@@ -27,7 +29,7 @@ export default function TopList() {
     console.log("response from eng song in top tracks", res);
     setindsong(res);
   };
-  var count = 0;
+  var count: number = 0;
   useEffect(() => {
     if (count == 0) {
       getEnglishSong();
@@ -38,7 +40,6 @@ export default function TopList() {
     }
   }, []);
   const dispatch = useDispatch();
-
   return (
     <div
       className="p-3 "
@@ -76,7 +77,6 @@ export default function TopList() {
                   className="m-3 top-tracks-list"
                   key={x.key}
                   onClick={() => {
-                    console.log("was dispatched");
                     dispatch(selectSong(x));
                   }}
                 >
@@ -117,11 +117,15 @@ export default function TopList() {
                       className="m-3 top-tracks-list"
                       key={x.key}
                       onClick={() => {
-                        console.log("was dispatched");
                         dispatch(selectSong(x));
                       }}
                     >
-                      <Music img={x.images?.coverart} title={x.title} />
+                      <Music
+                        img={
+                          x.images?.coverart ?? "https://picsum.photos/900/900"
+                        }
+                        title={x.title}
+                      />
                     </div>
                   </Link>
                 );
@@ -167,7 +171,12 @@ export default function TopList() {
                         dispatch(selectSong(x));
                       }}
                     >
-                      <Music img={x.images?.coverart} title={x.title} />
+                      <Music
+                        img={
+                          x.images?.coverart ?? "https://picsum.photos/900/900"
+                        }
+                        title={x.title}
+                      />
                     </div>
                   </Link>
                 );

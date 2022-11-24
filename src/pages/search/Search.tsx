@@ -4,9 +4,8 @@ import { useState } from "react";
 export default function Search() {
   const handleSearchChange = async (e: any) => {
     const value: string = e.target.value;
-    if (value.length > 4) {
+    if (value.length > 3) {
       const res = await searchMusic(value);
-      console.log(res);
       setsearchData(res);
     }
   };
@@ -35,7 +34,7 @@ export default function Search() {
       <div className="mt-5">
         {searchData.length > 0 ? (
           <div>
-            <MusicTiles musicArray={searchData} />
+            <MusicTiles songs={searchData} />
           </div>
         ) : (
           <Loading />
